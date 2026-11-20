@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pushpesh! I am currently exploring Data Science in Python. I find<br>data science to be fascinating because of the several applications it has<br>in the industry, especially on machine learning and artificial intelligence. <br>I am also interested in software development and have experience in <br>that field as well.<br>
+Hi, I'm Pushpesh! <br>I am  interested in software development, data science, and machine learning!<br>
 
 
 ## 🌐 Socials:
